@@ -1,0 +1,12 @@
+[package]
+name = "log-analyze"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+chrono = "0.4"
+
+# errors
+eyre = "0.6"
+color-eyre = "0.6"
